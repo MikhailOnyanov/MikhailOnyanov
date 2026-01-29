@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Minecraft-vibe gif with my bio and interests](https://github.com/MikhailOnyanov/MikhailOnyanov/blob/main/assets/mikhail_onyanov_minecraft_redstone.gif)
+
+
 <!--
 **MikhailOnyanov/MikhailOnyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
