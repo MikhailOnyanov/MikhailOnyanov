@@ -1,4 +1,8 @@
-## Hi there 👋
+## Can't stop, addicted to the shindig :hot_pepper:
+Contact me: 
+![LinkedIn](https://www.linkedin.com/in/mikhail-onyanov-865092365/)
+![Gmail](mailto:mnonyanov@gmail.com)
+
 
 ![Minecraft-vibe gif with my bio and interests](https://github.com/MikhailOnyanov/MikhailOnyanov/blob/main/assets/mikhail_onyanov_minecraft_redstone.gif)
 
