@@ -1,4 +1,5 @@
-## Can't stop, addicted to the shindig :hot_pepper:
+## Can't stop, addicted to the shindig. 
+Working on backend engineering and costs-optimisation stuff, pray for open-source and let`s go building!
 
 Contact me: 
 [LinkedIn](https://www.linkedin.com/in/mikhail-onyanov-865092365/)
